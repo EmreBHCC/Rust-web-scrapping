@@ -1,1 +1,1 @@
-This is a web scrappin by Rust
+This is a web scrapping by Rust
